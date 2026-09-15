@@ -1,32 +1,32 @@
 fileFormatVersion: 2
-guid: af4cdadc334dabd45b09be7003b4d981
+guid: 93ead5d666f12a14e88a07a477c91b18
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: Boden
     100002: Deckenlicht
-    100004: "Gem\xE4lde_01_Blumen"
-    100006: "Gem\xE4lde_02_feld"
-    100008: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
-    100010: "Gem\xE4lde_04_Nacht.jpg"
-    100012: "Gem\xE4lde_05_nacht"
-    100014: "Gem\xE4lde_06_Vase"
-    100016: Kamera
-    100018: //RootNode
+    100004: //RootNode
+    100006: "Gem\xE4lde_01_Blumen"
+    100008: "Gem\xE4lde_02_feld"
+    100010: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    100012: "Gem\xE4lde_04_Nacht.jpg"
+    100014: "Gem\xE4lde_05_nacht"
+    100016: "Gem\xE4lde_06_Vase"
+    100018: Kamera
     100020: Wand_Hinten
     100022: Wand_Links
     100024: Wand_Rechts
     100026: Wand_Vorne
     400000: Boden
     400002: Deckenlicht
-    400004: "Gem\xE4lde_01_Blumen"
-    400006: "Gem\xE4lde_02_feld"
-    400008: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
-    400010: "Gem\xE4lde_04_Nacht.jpg"
-    400012: "Gem\xE4lde_05_nacht"
-    400014: "Gem\xE4lde_06_Vase"
-    400016: Kamera
-    400018: //RootNode
+    400004: //RootNode
+    400006: "Gem\xE4lde_01_Blumen"
+    400008: "Gem\xE4lde_02_feld"
+    400010: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    400012: "Gem\xE4lde_04_Nacht.jpg"
+    400014: "Gem\xE4lde_05_nacht"
+    400016: "Gem\xE4lde_06_Vase"
+    400018: Kamera
     400020: Wand_Hinten
     400022: Wand_Links
     400024: Wand_Rechts

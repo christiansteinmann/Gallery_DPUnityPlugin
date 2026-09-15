@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: af4cdadc334dabd45b09be7003b4d981
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boden
+    100002: Deckenlicht
+    100004: "Gem\xE4lde_01_Blumen"
+    100006: "Gem\xE4lde_02_feld"
+    100008: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    100010: "Gem\xE4lde_04_Nacht.jpg"
+    100012: "Gem\xE4lde_05_nacht"
+    100014: "Gem\xE4lde_06_Vase"
+    100016: Kamera
+    100018: //RootNode
+    100020: Wand_Hinten
+    100022: Wand_Links
+    100024: Wand_Rechts
+    100026: Wand_Vorne
+    400000: Boden
+    400002: Deckenlicht
+    400004: "Gem\xE4lde_01_Blumen"
+    400006: "Gem\xE4lde_02_feld"
+    400008: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    400010: "Gem\xE4lde_04_Nacht.jpg"
+    400012: "Gem\xE4lde_05_nacht"
+    400014: "Gem\xE4lde_06_Vase"
+    400016: Kamera
+    400018: //RootNode
+    400020: Wand_Hinten
+    400022: Wand_Links
+    400024: Wand_Rechts
+    400026: Wand_Vorne
+    2000000: Kamera
+    2100000: Boden_Mat
+    2100002: "Gem\xE4lde_01_Mat"
+    2100004: "Gem\xE4lde_02_Mat"
+    2100006: "Gem\xE4lde_03_Mat"
+    2100008: "Gem\xE4lde_04_Mat"
+    2100010: "Gem\xE4lde_05_Mat"
+    2100012: "Gem\xE4lde_06_Mat"
+    2100014: Wand_Mat
+    2300000: Boden
+    2300002: "Gem\xE4lde_01_Blumen"
+    2300004: "Gem\xE4lde_02_feld"
+    2300006: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    2300008: "Gem\xE4lde_04_Nacht.jpg"
+    2300010: "Gem\xE4lde_05_nacht"
+    2300012: "Gem\xE4lde_06_Vase"
+    2300014: Wand_Hinten
+    2300016: Wand_Links
+    2300018: Wand_Rechts
+    2300020: Wand_Vorne
+    3300000: Boden
+    3300002: "Gem\xE4lde_01_Blumen"
+    3300004: "Gem\xE4lde_02_feld"
+    3300006: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    3300008: "Gem\xE4lde_04_Nacht.jpg"
+    3300010: "Gem\xE4lde_05_nacht"
+    3300012: "Gem\xE4lde_06_Vase"
+    3300014: Wand_Hinten
+    3300016: Wand_Links
+    3300018: Wand_Rechts
+    3300020: Wand_Vorne
+    4300000: Boden
+    4300002: "Gem\xE4lde_01_Blumen"
+    4300004: "Gem\xE4lde_02_feld"
+    4300006: "Gem\xE4lde_03_Les_mangeurs_de_pommes_de_terre"
+    4300008: "Gem\xE4lde_04_Nacht.jpg"
+    4300010: "Gem\xE4lde_05_nacht"
+    4300012: "Gem\xE4lde_06_Vase"
+    4300014: Wand_Hinten
+    4300016: Wand_Links
+    4300018: Wand_Rechts
+    4300020: Wand_Vorne
+    10800000: Deckenlicht
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
